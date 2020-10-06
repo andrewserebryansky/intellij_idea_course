@@ -1,0 +1,8 @@
+org/elasticsearch/example/exceptionsearch/ExceptionSearchPlugin.java
+ org.elasticsearch.example.exceptionsearch.ExceptionSearchPlugin
+org/elasticsearch/example/exceptionsearch/ExceptionAnalyzerProvider.java
+ org.elasticsearch.example.exceptionsearch.ExceptionAnalyzerProvider
+ org.elasticsearch.example.exceptionsearch.ExceptionAnalyzerProvider$1
+ org.elasticsearch.example.exceptionsearch.ExceptionAnalyzerProvider$ExceptionAnalyzer
+org/elasticsearch/example/exceptionsearch/ExceptionTokenizer.java
+ org.elasticsearch.example.exceptionsearch.ExceptionTokenizer

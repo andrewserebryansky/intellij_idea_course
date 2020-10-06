@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"org.elasticsearch.example.exceptionsearch","l":"ExceptionAnalyzerProvider"},{"p":"org.elasticsearch.example.exceptionsearch","l":"ExceptionSearchPlugin"},{"p":"org.elasticsearch.example.exceptionsearch","l":"ExceptionTokenizer"}]
